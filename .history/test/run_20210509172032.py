@@ -1,0 +1,2 @@
+resutl="AAA"
+print(result)
